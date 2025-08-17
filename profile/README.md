@@ -1,6 +1,6 @@
 ## Hey, this is beeen LAB 👋
 
-![beeen LAB illustration showing a minimalist server, gears, and experiment icons](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
 We are **beeen LAB**, a place where experiments meet innovation.  
 Our mission is to build and explore **cutting-edge backend technologies** in a safe, experimental environment.  
@@ -21,7 +21,4 @@ We embrace curiosity and experimentation, and every project is a step toward **s
 
 ### 👓 Appendix
 
-See what we’re exploring next on our [public roadmap](https://lab.beeen.kr) ✨.  
-Have ideas, feedback, or just want to say hi? [Let us know](https://lab.beeen.kr). 🙌  
-
-We’re always looking for **passionate backend developers** to join our journey. Check out our [careers page](https://lab.beeen.kr) if you want to experiment with us. 
+See what we’re exploring next on our [public roadmap](https://lab.beeen.kr) ✨.
