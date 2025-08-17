@@ -23,8 +23,7 @@ Some of what we explore:
 - **Monitoring systems**:<br>Build dashboards with **Grafana** to visualize metrics, track anomalies, and detect performance issues in real-time.  
 - **Failure response**:<br>Operate a beeen LAB server environment to practice incident response<br>— from diagnosing downtime and log analysis, to restoring services and improving reliability strategies.  
 
-We embrace curiosity and experimentation, and every project is a step toward **smarter, faster, and more robust backend systems**. 🚀
-
+We embrace curiosity and experimentation, and every project is a step toward<br>**smarter, faster, and more robust backend systems**. 🚀
 
 
 ### 👓 Appendix
