@@ -13,10 +13,14 @@ Currently, we operate from a single home server, testing and learning everything
 
 At beeen LAB, we focus on building systems and tools that **push the boundaries of backend development**. Some of what we explore:
 
-- **Server environments**: Deploy and configure servers to learn system internals.
-- **Infrastructure automation**: Experiment with CI/CD pipelines, Docker, and more.
+- **Server environments**: Deploy and configure servers to learn system internals.  
+- **Infrastructure automation**: Experiment with CI/CD pipelines, Docker, and more.  
+- **Deployment systems**: Leverage **IDC Harbor** as a private container registry to manage and securely deploy services.  
+- **Monitoring systems**: Build dashboards with **Grafana** to visualize metrics, track anomalies, and detect performance issues in real-time.  
+- **Failure response**: Operate a beeen LAB server environment to practice incident response — from diagnosing downtime and log analysis, to restoring services and improving reliability strategies.  
 
 We embrace curiosity and experimentation, and every project is a step toward **smarter, faster, and more robust backend systems**. 🚀
+
 
 
 ### 👓 Appendix
