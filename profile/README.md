@@ -21,7 +21,7 @@ We embrace curiosity and experimentation, and every project is a step toward **s
 
 ### 👓 Appendix
 
-See what we’re exploring next on our [public roadmap](https://github.com/beeen/roadmap) ✨.  
-Have ideas, feedback, or just want to say hi? [Let us know](https://github.com/beeen/feedback). 🙌  
+See what we’re exploring next on our [public roadmap](https://lab.beeen.kr) ✨.  
+Have ideas, feedback, or just want to say hi? [Let us know](https://lab.beeen.kr). 🙌  
 
 We’re always looking for **passionate backend developers** to join our journey. Check out our [careers page](https://lab.beeen.kr) if you want to experiment with us. 
