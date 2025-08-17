@@ -25,6 +25,7 @@ Some of what we explore:
 
 We embrace curiosity and experimentation, and every project is a step toward<br>**smarter, faster, and more robust backend systems**. 🚀
 
+---
 
 ### 👓 Appendix
 
