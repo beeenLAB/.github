@@ -5,14 +5,14 @@
 We are **beeen LAB**, a place where experiments meet innovation.  
 Our mission is to build and explore **cutting-edge backend technologies** in a safe, experimental environment.  
 
-Currently, we operate from a single home server, testing and learning everything from **backend frameworks** to **infrastructure setups**. 
+Currently, we operate from a single home server, testing and learning everything from **backend frameworks** to **infrastructure setups**.   
 Our goal? **Rapid experimentation, hands-on learning, and continuous growth** for backend developers. ⚡
 
 ---
 
 ### 🧪 Our playground
 
-At beeen LAB, we focus on building systems and tools that **push the boundaries of backend development**.
+At beeen LAB, we focus on building systems and tools that **push the boundaries of backend development**.   
 Some of what we explore:
 
 - **Server environments**: Deploy and configure servers to learn system internals.  
